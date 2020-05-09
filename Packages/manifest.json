@@ -1,5 +1,14 @@
 {
   "dependencies": {
+<<<<<<< HEAD
+    "com.unity.ads": "2.0.8",
+    "com.unity.analytics": "3.2.3",
+    "com.unity.collab-proxy": "1.2.15",
+    "com.unity.package-manager-ui": "2.0.8",
+    "com.unity.purchasing": "2.0.3",
+    "com.unity.textmeshpro": "1.4.1",
+    "com.unity.modules.ai": "1.0.0",
+=======
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
     "com.unity.ide.vscode": "1.2.0",
@@ -9,6 +18,7 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
+>>>>>>> 800b3a3bb6af1b476dccfd5a8ac56f0472faed23
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
     "com.unity.modules.audio": "1.0.0",
